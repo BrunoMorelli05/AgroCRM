@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AgroCRM.BE/AgroCRM.BE.csproj" Id="6d67b4a5-6a0f-4454-bda5-47a2e0d3a359" />
+  <Project Path="AgroCRM.BLL/AgroCRM.BLL.csproj" Id="c3514685-5738-40a6-b0de-9f0c0f617829" />
+  <Project Path="AgroCRM.DAL/AgroCRM.DAL.csproj" Id="41a21d34-008c-4146-99db-253f74f09d58" />
+  <Project Path="AgroCRM.Forms/AgroCRM.Forms.csproj" Id="157d6efe-fe06-4d83-a474-be55b1582eaf" />
+  <Project Path="AgroCRM.MPP/AgroCRM.MPP.csproj" Id="0b67ba04-91fb-4b45-88de-d37b47e48967" />
+  <Project Path="AgroCRM.Seguridad/AgroCRM.Seguridad.csproj" Id="b90951f1-57ea-4b66-8b8f-b4e3f8373c07" />
+</Solution>
