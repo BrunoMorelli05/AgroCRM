@@ -1,6 +1,7 @@
 ﻿namespace AgroCRM.MPP
 {
-    public class Cliente
+    public class ClienteMPP
     {
+
     }
 }
