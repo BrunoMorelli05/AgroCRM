@@ -3,6 +3,7 @@ using System.Collections;
 using System.Data;
 using System.Data.SqlClient;
 
+//Capa de acceso a datos
 namespace AgroCRM.DAL
 {
     public class Acceso
