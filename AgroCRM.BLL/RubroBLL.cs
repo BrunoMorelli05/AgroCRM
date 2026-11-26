@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace AgroCRM.BLL
 {
-    public class RubroBLL
+    internal class RubroBLL
     {
-
     }
 }
     

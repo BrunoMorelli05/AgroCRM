@@ -41,9 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClienteMPP.cs" />
+    <Compile Include="Cliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RubroMPP.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
