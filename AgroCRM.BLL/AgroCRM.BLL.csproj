@@ -50,6 +50,10 @@
       <Project>{6d67b4a5-6a0f-4454-bda5-47a2e0d3a359}</Project>
       <Name>AgroCRM.BE</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AgroCRM.MPP\AgroCRM.MPP.csproj">
+      <Project>{0b67ba04-91fb-4b45-88de-d37b47e48967}</Project>
+      <Name>AgroCRM.MPP</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

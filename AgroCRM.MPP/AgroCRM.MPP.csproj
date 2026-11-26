@@ -41,8 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cliente.cs" />
+    <Compile Include="ClienteMPP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RubroMPP.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AgroCRM.BE\AgroCRM.BE.csproj">
+      <Project>{6d67b4a5-6a0f-4454-bda5-47a2e0d3a359}</Project>
+      <Name>AgroCRM.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AgroCRM.DAL\AgroCRM.DAL.csproj">
+      <Project>{41a21d34-008c-4146-99db-253f74f09d58}</Project>
+      <Name>AgroCRM.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
